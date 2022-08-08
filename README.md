@@ -14,9 +14,9 @@
 ## Demo
 Link: [https://stormy-dusk-74184.herokuapp.com/](https://stormy-dusk-74184.herokuapp.com/)
 
-[![](https://imgur.com/e22YlGi/)](https://stormy-dusk-74184.herokuapp.com/)
+[![](https://imgur.com/e22YlGi.png)](https://stormy-dusk-74184.herokuapp.com/)
 
-[![](https://imgur.com/EdojYWe/)](https://stormy-dusk-74184.herokuapp.com/)
+[![](https://imgur.com/EdojYWe.png)](https://stormy-dusk-74184.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
